@@ -7,6 +7,6 @@
 <title>Sun's Stat-PUBG</title>
 </head>
 <body>
-	Hello, this is Sun's Stat-PUBG!!!
+	Hello, this is Sun's Stat-PUBG!
 </body>
 </html>
